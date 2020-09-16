@@ -50,7 +50,7 @@ body{
 }
 .menu li.active> a, .menu li> a:hover {
 	color:rgb(211, 211, 211);
-	background:#6d3202;
+	background:black;
 	-webkit-transition: all 0.3s ease;
 	-moz-transition: all 0.3s ease;
 	-o-transition: all 0.3s ease;
